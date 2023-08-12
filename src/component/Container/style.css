@@ -1,0 +1,8 @@
+.main__container {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  .main__container--padding {
+    padding: 1rem 0;
+  }
