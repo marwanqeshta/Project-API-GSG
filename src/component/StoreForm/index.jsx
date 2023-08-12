@@ -30,8 +30,9 @@ const StoreForm = (props) => {
         isGetFirstTimeData: false,
       });
     }
-  },// eslint-config-react-app
-   [props.store]);
+  },
+   /* eslint-disable */
+[props.store]);
 
   const handleSubmit = (e) => {
     e.preventDefault();
